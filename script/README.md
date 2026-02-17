@@ -1,5 +1,5 @@
-
-Directory Summary Script:
+this script was made after i finished Phase 02 of my learnings.
+dir_summery.sh  Script:
 
 This script is a Bash-based command-line utility that recursively analyzes a directory and reports the total number of:
 - Directories
