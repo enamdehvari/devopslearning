@@ -1,5 +1,5 @@
 
-#  6th october 2025 I started making my local infra portfoli on linux here.  
+#  6th october 2025 I started making my local infra portfolio on linux here.  
 
 #  7th october 2025 I installed git and locallized it and pushed it to my online rep
 
